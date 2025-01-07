@@ -7,3 +7,5 @@
 [Chapter 04. JSP 기본 요소](https://www.notion.so/Chapter-04-JSP-16d357c44e56807487cafaa393a716a5?pvs=21)
 
 [Chapter 05. 내장 객체와 액션 태그](https://moondongmin.notion.site/Chapter-05-174357c44e56801ab6ceec7adfb8775e?pvs=4)
+
+[Chapter 06. 액션 태그를 활용한 템플릿 페이지 작성](https://moondongmin.notion.site/Chapter-06-174357c44e5680338976d00e9b81208e?pvs=4)
