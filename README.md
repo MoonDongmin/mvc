@@ -9,3 +9,5 @@
 [Chapter 05. 내장 객체와 액션 태그](https://moondongmin.notion.site/Chapter-05-174357c44e56801ab6ceec7adfb8775e?pvs=4)
 
 [Chapter 06. 액션 태그를 활용한 템플릿 페이지 작성](https://moondongmin.notion.site/Chapter-06-174357c44e5680338976d00e9b81208e?pvs=4)
+
+[Chapter 07. 자바빈(JavaBean)](https://moondongmin.notion.site/Chapter-07-JavaBean-17b357c44e568050b8efd9ebc1018abe?pvs=4)
