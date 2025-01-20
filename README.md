@@ -13,3 +13,5 @@
 [Chapter 07. 자바빈(JavaBean)](https://moondongmin.notion.site/Chapter-07-JavaBean-17b357c44e568050b8efd9ebc1018abe?pvs=4)
 
 [Chapter 08. 세션과 쿠키](https://moondongmin.notion.site/Chapter-08-181357c44e56807b81efff81e2e78572?pvs=4)
+
+[Chapter 09. 예외 처리](https://moondongmin.notion.site/Chapter-09-181357c44e5680d491c0e658e1646af5?pvs=4)
