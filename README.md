@@ -11,3 +11,5 @@
 [Chapter 06. 액션 태그를 활용한 템플릿 페이지 작성](https://moondongmin.notion.site/Chapter-06-174357c44e5680338976d00e9b81208e?pvs=4)
 
 [Chapter 07. 자바빈(JavaBean)](https://moondongmin.notion.site/Chapter-07-JavaBean-17b357c44e568050b8efd9ebc1018abe?pvs=4)
+
+[Chapter 08. 세션과 쿠키](https://moondongmin.notion.site/Chapter-08-181357c44e56807b81efff81e2e78572?pvs=4)
