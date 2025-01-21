@@ -17,3 +17,5 @@
 [Chapter 09. 예외 처리](https://moondongmin.notion.site/Chapter-09-181357c44e5680d491c0e658e1646af5?pvs=4)
 
 [Chapter 10. 파일 업로드](https://moondongmin.notion.site/Chapter-10-182357c44e5680fab41cd7fcc08a63a3?pvs=4)
+
+[Chapter 11. 이미지 섬네일](https://moondongmin.notion.site/Chapter-11-182357c44e568037bb61da36fd6c718a?pvs=4)
