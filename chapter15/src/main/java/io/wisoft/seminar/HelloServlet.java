@@ -1,11 +1,11 @@
-package io.wisoft.tutorial.chapter12;
+package io.wisoft.seminar;
 
 import java.io.*;
 
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
-@WebServlet(name = "helloServlet", value = "/")
+@WebServlet(name = "helloServlet", value = "/hello-servlet")
 public class HelloServlet extends HttpServlet {
   private String message;
 
@@ -25,4 +25,4 @@ public class HelloServlet extends HttpServlet {
 
   public void destroy() {
   }
-} 
+}
