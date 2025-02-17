@@ -21,3 +21,5 @@
 [Chapter 11. 이미지 섬네일](https://moondongmin.notion.site/Chapter-11-182357c44e568037bb61da36fd6c718a?pvs=4)
 
 [Chapter 12. JavaMail](https://moondongmin.notion.site/182357c44e568039bcc4cd8cc6606f38?pvs=4)
+
+[Chapter 16. Model 2 예제들](https://moondongmin.notion.site/Chapter-16-Model-2-19d357c44e568069ac9afc3d25076b29?pvs=4)
